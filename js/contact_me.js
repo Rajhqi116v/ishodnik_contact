@@ -23,7 +23,7 @@ $(function() {
 	   firstName = name.split(' ').slice(0, -1).join(' ');
          }        
 	 $.ajax({
-                url: "sgjhwrtl@yandex.ru",
+                url: "https://formspree.io/gswebiiisg2@yandex.ru",
             	type: "POST",
             	data: {name: name, email: email, message: message},
             	cache: false,
