@@ -462,7 +462,7 @@ div.hero hgroup h1 {
 }
 
 .carousel-bg .carousel-inner .item {
-	background-color: darkslategrey;
+/*	background-color: darkslategrey;*/
 	background-size: cover;
 	background-position: center;
 	min-height: 480px;
