@@ -1,0 +1,22 @@
+bootstrap фреймворк
+jQuery — библиотека JavaScript
+HTML5 разметки
+стили css3
+При верстке сайта были использованы: фреймворк Bootstrap 3x, библиотека JavaScript - jQuery, разметка HTML5, каскадные таблицы стилей CSS3. Адаптивный дизайн.
+==============
+с использованием HTML5, CSS3 и Bootstrap 3x
+responsive  Адаптивный веб-дизайн
+
+responsive design vector icon
+rwd
+responsive design logo eps
+-------------
+https://logoeps.com/jquery-logo-vector/4273/
+https://www.seeklogo.net/brand-logos/technology-logos/page/20/
+http://freevector.co/
+
+
+
+
+
+how-to-design-logo-for-website-web-design-liverpool-0151-7094930-website-developer-free

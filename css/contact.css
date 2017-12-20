@@ -1,9 +1,12 @@
+/*
 .icon {
 	float: left;
 	background: #CE4A4A;
 	height: 66px;
 }
+*/
 
+/*
 .icon i {
 	z-index: 99;
 	font-size: 32px;
@@ -11,6 +14,7 @@
 	color: #FFFFFF;
 	display: inherit;
 }
+*/
 
 .input-text {
     background: transparent;
@@ -60,10 +64,10 @@
     font-size: 25px;
     color: #fff;
 }
-
-.form {
-    margin: 0 66px 0 30px;
+div.form{
+	margin: 0 0 80px;
 }
+
 
 .input-text {
     padding: 15px 16px;
@@ -85,7 +89,8 @@
     width: 175px;
     height: 50px;
     letter-spacing: 0px;
-    background: #CE4A4A;
+/*    background: #CE4A4A;*/
+	background: #868686;
     border-radius: 3px;
     color: #ffffff;
     font-size: 16px;
@@ -103,3 +108,13 @@
 }
 
 
+
+.contact-item .features{
+	margin-bottom: 35px;
+	height: 66px;
+}
+
+
+div.howtoget{
+	margin-bottom: 20px;
+}

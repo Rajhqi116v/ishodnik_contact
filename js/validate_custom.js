@@ -1,6 +1,6 @@
 $.validator.setDefaults( {
 			submitHandler: function () {
-				alert( "submitted!" );
+				alert( "Отправлено!" );
 			}
 		} );
 
@@ -27,14 +27,14 @@ $.validator.setDefaults( {
 					
 					username: {
 						required: "Пожалуйста, введите имя",
-						minlength: "Your username must consist of at least 2 characters"
+						minlength: "Ваше имя должно содержать минимум два символа"
 					},
 				
-					email: "Пожалуйста, введите адрес Вашей почты",
+					email: "Пожалуйста, введите корректный адрес Вашей почты",
 					
 					message: {
 						required: "Ваше сообщение должно содержать минимум три символа",
-						minlength: "Your umessage must consist of at least 3 characters"
+						minlength: "Ваше сообщение должно содержать минимум три символа"
 					}
 					
 				},
